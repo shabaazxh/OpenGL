@@ -1,4 +1,4 @@
-# OpenGLContent
+# OpenGL
 Explorting computer graphics through OpenGL
 
 Current project features:
