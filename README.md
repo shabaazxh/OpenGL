@@ -11,3 +11,6 @@ Current project features:
 * Ambient lighting 
 * Specular lighting 
 * Easy shader loading with Shader class
+
+
+![EnginePreview](preview.jpg)
